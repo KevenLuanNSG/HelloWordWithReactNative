@@ -13,6 +13,8 @@ import {
   ScrollView,
   View,
   Text,
+  Button,
+  ToastAndroid,
   StatusBar,
 } from 'react-native';
 
